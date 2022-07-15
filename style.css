@@ -121,5 +121,5 @@ footer {
 .padlock {
   position: fixed;
   bottom: 40px;
-  left: 180px;
+  left: 180px !important;
 }
