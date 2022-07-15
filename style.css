@@ -101,7 +101,7 @@ section {
 }
 
 footer {
-  margin-top: 100px;
+  margin-top: 160px;
   text-align: center;
   font-family: var(--title-font);
   color: var(--color-white);
@@ -120,6 +120,6 @@ footer {
 
 .padlock {
   position: fixed;
-  bottom: 150px;
-  left: 400px;
+  bottom: 40px;
+  left: 180px;
 }
